@@ -550,6 +550,9 @@
             <mxPoint x="624" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fTkztgeTR4QL2AWJfsyQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZAHF-ij8oVWP5fIzkRC-150" target="8ZAHF-ij8oVWP5fIzkRC-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8ZAHF-ij8oVWP5fIzkRC-150" value="符号拓展" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="394" y="284" width="40" height="33" as="geometry" />
         </mxCell>
